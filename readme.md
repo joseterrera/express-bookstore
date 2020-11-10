@@ -39,5 +39,5 @@ router.post("/with-validation", function(req, res, next) {
 2. Exit and then type `psql books < data.sql` to import the tables
 4. Run `npm install` 
 5. Run `nodemon server.js`
-6. To run tests `npm run tests`
+6. To run tests `npm run tests` after creating an importing a test database.
 
